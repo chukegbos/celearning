@@ -23,7 +23,7 @@
         "bootstrap-vue": "^2.11.0",
         "laravel-echo": "^1.4.0",
         "laravel-vue-pagination": "^2.3.1",
-        "luxon": "^1.23.0",
+        "luxon": "^2.5.2",
         "moment": "^2.24.0",
         "pusher-js": "^4.3.0",
         "sweetalert2": "^9.10.10",
